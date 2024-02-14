@@ -1,0 +1,15 @@
+C:\Programs\TrafficAnalyzer\TrafficAnalyzer\bin\Debug\net8.0\TrafficAnalyzer.exe
+C:\Programs\TrafficAnalyzer\TrafficAnalyzer\bin\Debug\net8.0\TrafficAnalyzer.deps.json
+C:\Programs\TrafficAnalyzer\TrafficAnalyzer\bin\Debug\net8.0\TrafficAnalyzer.runtimeconfig.json
+C:\Programs\TrafficAnalyzer\TrafficAnalyzer\bin\Debug\net8.0\TrafficAnalyzer.dll
+C:\Programs\TrafficAnalyzer\TrafficAnalyzer\bin\Debug\net8.0\TrafficAnalyzer.pdb
+C:\Programs\TrafficAnalyzer\TrafficAnalyzer\obj\Debug\net8.0\TrafficAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programs\TrafficAnalyzer\TrafficAnalyzer\obj\Debug\net8.0\TrafficAnalyzer.AssemblyInfoInputs.cache
+C:\Programs\TrafficAnalyzer\TrafficAnalyzer\obj\Debug\net8.0\TrafficAnalyzer.AssemblyInfo.cs
+C:\Programs\TrafficAnalyzer\TrafficAnalyzer\obj\Debug\net8.0\TrafficAnalyzer.csproj.CoreCompileInputs.cache
+C:\Programs\TrafficAnalyzer\TrafficAnalyzer\obj\Debug\net8.0\TrafficAnalyzer.sourcelink.json
+C:\Programs\TrafficAnalyzer\TrafficAnalyzer\obj\Debug\net8.0\TrafficAnalyzer.dll
+C:\Programs\TrafficAnalyzer\TrafficAnalyzer\obj\Debug\net8.0\refint\TrafficAnalyzer.dll
+C:\Programs\TrafficAnalyzer\TrafficAnalyzer\obj\Debug\net8.0\TrafficAnalyzer.pdb
+C:\Programs\TrafficAnalyzer\TrafficAnalyzer\obj\Debug\net8.0\TrafficAnalyzer.genruntimeconfig.cache
+C:\Programs\TrafficAnalyzer\TrafficAnalyzer\obj\Debug\net8.0\ref\TrafficAnalyzer.dll
